@@ -15,3 +15,5 @@
 <img src="assets/calculadora.png"
 alt= "img calculadora"  width="300"> 
 </h1>
+
+Feito por mim com muito amor!💜
